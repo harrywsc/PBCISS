@@ -1,0 +1,11 @@
+C:\github\PBCISS\PBCISS\bin\Debug\中国人民银行贵阳中心支行政务信息统计系统.exe.config
+C:\github\PBCISS\PBCISS\bin\Debug\中国人民银行贵阳中心支行政务信息统计系统.exe
+C:\github\PBCISS\PBCISS\bin\Debug\中国人民银行贵阳中心支行政务信息统计系统.pdb
+C:\github\PBCISS\PBCISS\obj\Debug\PBCISS.Form1.resources
+C:\github\PBCISS\PBCISS\obj\Debug\PBCISS.Main.resources
+C:\github\PBCISS\PBCISS\obj\Debug\PBCISS.Properties.Resources.resources
+C:\github\PBCISS\PBCISS\obj\Debug\PBCISS.csproj.GenerateResource.Cache
+C:\github\PBCISS\PBCISS\obj\Debug\中国人民银行贵阳中心支行政务信息统计系统.exe
+C:\github\PBCISS\PBCISS\obj\Debug\中国人民银行贵阳中心支行政务信息统计系统.pdb
+C:\github\PBCISS\PBCISS\obj\Debug\PBCISS.DeptManage.resources
+C:\github\PBCISS\PBCISS\obj\Debug\PBCISS.csprojResolveAssemblyReference.cache
